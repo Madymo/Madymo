@@ -14,5 +14,5 @@ Thast means i got a traineeship years ago and now im in a new traineeship to Dev
 Here on GitHub i put some Projects that i build in my traineeship. Also i have an 
 account on GitLab on the next weeks i update Booth so that i have on Hub and Lab all
 the same Repositorys.
-Im interestetd in getting Practice in Programming atm i usw Cä, Blazor, Html, Css and Javascript.
+Im interestetd in getting Practice in Programming atm i use C#, Blazor, Html, Css and Javascript.
 If you know some Projects wehre i can learn some Teamplay and apperiance my skills please contact me.
